@@ -1,0 +1,9 @@
+svg.w-5.h-5 {
+    width: 25px;
+}
+.flex.justify-between.flex-1.sm\:hidden {
+    display: none;
+}
+pre {
+    display: none;
+}
