@@ -49,6 +49,14 @@ _Crud desenvolvido com `Laravel 9`, Tendo como desafio `Relacionamento entre tab
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
+## Rotas
+
+_Para visualizar as rotas presentes no `lara-crud` digite o comando `php artisan route:list`, na imagem abaixo segue todas rotas geradas automaticamente com o `php artisan make:controller ExampleController --resource` qualquer duvida contacte-me!._
+
+[![Product Name Screen Shot][route-screenshot]](https://example.com)
+
+
+
 ### Tecnologias utilizadas
 
 Utilizando neste projeto Laravel 9 + Bootstrap 5
@@ -112,6 +120,7 @@ Project Link: [lara-crud](https://github.com/Manrriquez/lara-crud)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/manrriquezs
 [product-screenshot]: ./public/img/Banner-README.png
+[route-screenshot]: ./public/img/route-README.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
