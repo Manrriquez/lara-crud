@@ -33,10 +33,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/Manrriquez/ecommerce-react-ui/">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="150">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="350">
   </a>
 
-  <h3 align="center">Lara-crud</h3>
+  <h3 align="center">Lara-crud by <a href="https://linkedin.com/in/manrriquezs" target="_blank">@Manrriquez</a></h3>
 
 </div>
 
@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-_Crud desenvolvido com `Laravel 9`, Tendo como desafio `Relacionamento entre tabelas`, neste projeto se encontra 2 tabelas `Categorias` & `Produtos`, cada produto haveria 1 categoria, porém cada categoria poderia haver muitos produtos, seguindo este raciocinio temos aqui uma relação de `1:N` Uma categoria para diversos produtos, a inicio algo desafiador, porém com muita dedicação chegamos aqui o final deste projeto._
+_Crud desenvolvido com `Laravel 9`, Tendo como desafio `Relacionamento entre tabelas`, neste projeto se encontra 2 tabelas `Categorias` & `Produtos`, cada produto haveria 1 categoria, porém cada categoria poderia haver muitos produtos, seguindo este raciocinio temos aqui uma relação de `1:N` Uma categoria para diversos produtos e produtos apenas para uma categoria, a inicio algo desafiador, porém com muita dedicação chegamos aqui o final deste projeto._
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -59,7 +59,7 @@ Utilizando neste projeto Laravel 9 + Bootstrap 5
 
 ### Instalação
 
-_Siga as instruções para usufluir do projet._
+_Siga as instruções para usufluir do projeto._
 
 1. Clone repo
    ```sh
@@ -73,11 +73,11 @@ _Siga as instruções para usufluir do projet._
    ```sh
    cp .env.example .env
    ```
-5. Gerar key
+4. Gerar key
    ```sh
    php artisan key:generate
    ```  
-6. Gerar key
+5. Iniciar projeto
    ```sh
    php artisan serve
    ```  
@@ -94,7 +94,7 @@ _Siga as instruções para usufluir do projet._
 
 Luis Fernando - [@manrriquezs](https://www.linkedin.com/in/manrriquezs/) - manrriquez.contato@gmail.com
 
-Project Link: [ecommerce-react-ui](https://github.com/Manrriquez/lara-crud)
+Project Link: [lara-crud](https://github.com/Manrriquez/lara-crud)
 
 
 
